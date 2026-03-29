@@ -2,7 +2,7 @@ import type {Metadata} from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'New Age Fit | Premium Gym in Kalyan East',
+  title: 'New Age Fitness | Premium Gym in Kalyan East',
   description: 'Transform your body at New Age Fitness Unisex Gym. Modern equipment, expert trainers, and a supportive community in Kalyan East, Mumbai.',
 };
 

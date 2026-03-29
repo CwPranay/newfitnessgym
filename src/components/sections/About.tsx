@@ -1,4 +1,5 @@
 import { CheckCircle2, ShieldCheck, Users, Trophy } from "lucide-react"
+import { PlaceHolderImages } from "@/lib/placeholder-images"
 
 const FEATURES = [
   {
@@ -19,6 +20,8 @@ const FEATURES = [
 ]
 
 export function About() {
+  const aboutImage = PlaceHolderImages.find(img => img.id === "gallery-4")?.imageUrl || "https://picsum.photos/seed/gal4/800/1000"
+
   return (
     <section id="about" className="py-24 relative overflow-hidden">
       <div className="container mx-auto px-4">
@@ -53,7 +56,7 @@ export function About() {
           <div className="lg:w-1/2 relative">
             <div className="relative z-10 rounded-2xl overflow-hidden border border-white/10 shadow-2xl">
               <img 
-                src="https://picsum.photos/seed/aboutgym/800/1000" 
+                src={aboutImage} 
                 alt="Gym Experience" 
                 className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700"
                 data-ai-hint="gym training"

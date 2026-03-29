@@ -12,7 +12,7 @@ export function Footer() {
                 <Dumbbell className="w-6 h-6 text-background" />
               </div>
               <span className="font-headline font-bold text-xl tracking-tight uppercase italic">
-                New Age <span className="text-primary">Fit</span>
+                New Age <span className="text-primary">Fitness</span>
               </span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed max-w-xs">
@@ -77,7 +77,7 @@ export function Footer() {
             © {new Date().getFullYear()} NEW AGE FITNESS UNISEX GYM. ALL RIGHTS RESERVED.
           </p>
           <p className="text-muted-foreground text-[10px] uppercase tracking-[0.2em] italic font-black">
-            No website? Now you have one.
+            Kalyan East's #1 Fitness Destination.
           </p>
         </div>
       </div>

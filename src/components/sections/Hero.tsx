@@ -31,7 +31,7 @@ export function Hero() {
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-headline font-black uppercase italic tracking-tighter leading-[0.9] mb-6">
             Transform Your <br />
             <span className="text-primary italic">Body</span> at <br />
-            New Age <span className="text-accent">Fit</span>
+            New Age <span className="text-accent">Fitness</span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-xl mb-10 leading-relaxed font-medium">
             Experience the ultimate fitness journey in a clean, modern, and fully equipped gym. Expert trainers and a community that pushes you further.

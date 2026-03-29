@@ -39,7 +39,7 @@ export function Navbar() {
             <Dumbbell className="w-6 h-6 text-background" />
           </div>
           <span className="font-headline font-bold text-xl tracking-tight uppercase italic">
-            New Age <span className="text-primary">Fit</span>
+            New Age <span className="text-primary">Fitness</span>
           </span>
         </Link>
 
