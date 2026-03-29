@@ -11,7 +11,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src={heroImage?.imageUrl || "https://picsum.photos/seed/gym1/1200/800"}
+        src="https://images.unsplash.com/photo-1571902943202-507ec2618e8f"
           alt="Gym Hero"
           fill
           className="object-cover opacity-30 scale-105"

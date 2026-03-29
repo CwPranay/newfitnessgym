@@ -72,7 +72,7 @@ export function Contact() {
             <div className="h-full min-h-[400px] rounded-3xl overflow-hidden border border-white/10 shadow-2xl relative">
               {/* Google Map Placeholder - In production use real Google Maps Embed */}
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3767.123!2d73.1345!3d19.2312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7958567!2sKalyan%20East%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.344059044335!2d73.1388261143553!3d19.21327585079158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be79565d6046f17%3A0xb3629123ad6821e1!2sNew%20Age%20Fitness%20Unisex%20Gym!5e0!3m2!1sen!2sin!4v1774769744538!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

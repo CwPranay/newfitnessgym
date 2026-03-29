@@ -20,7 +20,7 @@ const FEATURES = [
 ]
 
 export function About() {
-  const aboutImage = PlaceHolderImages.find(img => img.id === "gallery-4")?.imageUrl || "https://picsum.photos/seed/gal4/800/1000"
+  const aboutImage =  "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
   return (
     <section id="about" className="py-24 relative overflow-hidden">

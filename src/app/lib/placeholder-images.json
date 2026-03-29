@@ -9,43 +9,43 @@
     {
       "id": "trainer-1",
       "description": "Professional male fitness trainer",
-      "imageUrl": "https://picsum.photos/seed/trainer1/400/500",
+      "imageUrl": "https://images.unsplash.com/photo-1584466977773-e625c37cdd50?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "imageHint": "fitness trainer"
     },
     {
       "id": "trainer-2",
       "description": "Professional female fitness trainer",
-      "imageUrl": "https://picsum.photos/seed/trainer2/400/500",
-      "imageHint": "female athlete"
+      "imageUrl": "https://images.unsplash.com/photo-1611672585731-fa10603fb9e0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "male athlete"
     },
     {
       "id": "trainer-3",
       "description": "Strength coach",
-      "imageUrl": "https://picsum.photos/seed/trainer3/400/500",
+      "imageUrl": "https://images.unsplash.com/photo-1584952811565-c4c4031805a8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "imageHint": "weightlifter"
     },
     {
       "id": "gallery-1",
       "description": "Dumbbell rack area",
-      "imageUrl": "https://picsum.photos/seed/gal1/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1521805103424-d8f8430e8933?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGd5bXxlbnwwfHwwfHx8MA%3D%3D",
       "imageHint": "gym weights"
     },
     {
       "id": "gallery-2",
       "description": "Cardio section with treadmills",
-      "imageUrl": "https://picsum.photos/seed/gal2/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGd5bXxlbnwwfHwwfHx8MA%3D%3D",
       "imageHint": "gym cardio"
     },
     {
       "id": "gallery-3",
       "description": "Crossfit functional training area",
-      "imageUrl": "https://picsum.photos/seed/gal3/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1637430308606-86576d8fef3c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGd5bXxlbnwwfHwwfHx8MA%3D%3D",
       "imageHint": "functional training"
     },
     {
       "id": "gallery-4",
       "description": "Gym floor overview",
-      "imageUrl": "https://picsum.photos/seed/gal4/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1693214674477-1159bddf1598?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGluZGlhbiUyMGd5bXxlbnwwfHwwfHx8MA%3D%3D",
       "imageHint": "gym interior"
     }
   ]
