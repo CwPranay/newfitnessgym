@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-gym",
+      "description": "Modern gym interior with high-end equipment",
+      "imageUrl": "https://picsum.photos/seed/gym1/1200/800",
+      "imageHint": "modern gym equipment"
+    },
+    {
+      "id": "trainer-1",
+      "description": "Professional male fitness trainer",
+      "imageUrl": "https://picsum.photos/seed/trainer1/400/500",
+      "imageHint": "fitness trainer"
+    },
+    {
+      "id": "trainer-2",
+      "description": "Professional female fitness trainer",
+      "imageUrl": "https://picsum.photos/seed/trainer2/400/500",
+      "imageHint": "female athlete"
+    },
+    {
+      "id": "trainer-3",
+      "description": "Strength coach",
+      "imageUrl": "https://picsum.photos/seed/trainer3/400/500",
+      "imageHint": "weightlifter"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Dumbbell rack area",
+      "imageUrl": "https://picsum.photos/seed/gal1/600/400",
+      "imageHint": "gym weights"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Cardio section with treadmills",
+      "imageUrl": "https://picsum.photos/seed/gal2/600/400",
+      "imageHint": "gym cardio"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Crossfit functional training area",
+      "imageUrl": "https://picsum.photos/seed/gal3/600/400",
+      "imageHint": "functional training"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Gym floor overview",
+      "imageUrl": "https://picsum.photos/seed/gal4/600/400",
+      "imageHint": "gym interior"
+    }
+  ]
+}
